@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background-color: #ff99b6; */
+}
+.conatainer{
+    /* width: 100%; */
+    height: auto;
+    background-color: #ff99b6;
+}
+
+
+div{
+    height: 650px;
+    width: 700px;
+    border: 5px solid red;
+    margin-left: 25%;
+}
+header{
+    height: 50px;
+    width: auto;
+    border: 2px solid blue;
+    padding-left: 310px;
+    padding-top: 12px;
+}
+header img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    
+}
+nav{
+    height: 70px;
+    width: auto;
+    border: 2px solid green;
+    /* padding-left: 220px; */
+    padding: auto;
+    /* display: flex; */
+    align-items:end;
+    justify-content: end;
+
+}
+.navbar{
+    text-align:start;
+    /* color: red; */
+}
+main{
+    height: 400px;
+    width: 400px;
+    border: solid gold;
+
+}
+main ul{
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.quali{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+article{
+    height: 110px;
+    width: 390px;
+    border: 2px solid gray;
+    margin-top: 140px;
+    /* margin-left: 185px; */
+    /* padding-left: 60px; */
+    /* padding-top: 0px; */
+}
+.tech{
+    padding-top: -10px;
+    color: red;
+    display: flex;
+    justify-content: center;
+
+}
+section{
+    height: 400px;
+    width: 240px;
+    border: 2px solid brown;
+    margin-left: 450px;
+    margin-top: -400px;
+}
+section ol{
+    padding: 20px;
+}
+.Projects{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+aside{
+    height: 110px;
+    width: 220px;
+    border: 2px solid gray;
+    /* margin-left: 80px; */
+    margin-top: 143px;
+    margin-left: 10px;
+    /* padding: 50px; */
+}
+aside ul{
+    padding: 20px;
+}
+h5{
+    display: flex;
+    justify-content: center;
+    color: red;
+}
+footer{
+    height: 50px;
+    width: auto;
+    border: 2px solid gold;
+    padding-left: 310px;
+    /* padding-top: 1px; */
+}
+.Hobbies{
+    padding-bottom: 10px;
+}
